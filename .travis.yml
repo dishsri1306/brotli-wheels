@@ -58,7 +58,7 @@ matrix:
         - MB_PYTHON_VERSION=3.8
         - PLAT=i686
     - os: linux
-      plat: arm64
+      arch: arm64
       env:
         - MB_PYTHON_VERSION=3.8
         - PLAT=arm64
