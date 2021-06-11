@@ -8,7 +8,7 @@ env:
     - BUILD_DEPENDS=
     # pip dependencies to _test_ project
     - TEST_DEPENDS=
-    - PLAT=x86_64
+    #- PLAT=x86_64
     - UNICODE_WIDTH=32
     # PyPI credentials
     - TWINE_USERNAME=anthrotype
